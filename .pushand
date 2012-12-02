@@ -1,2 +1,2 @@
 #! /bin/bash
-phd $0 rackapp rackapp.app.webbynode.com
+phd $0 rackapp rackapp.webbyapp.com
